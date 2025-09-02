@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "10th standard (Government Senior Secondary School)",
+    "organisation": "RBSE",
+    "startDate": "2018-",
+    "endDate": "2019",
+    "location": "Mahaveer Nagar-III Kota,Rajasthan",
+    "experiences": [
+      "I have got 94.33%",
+      "I have topped in my school",
+      "Memeber of Distric merit List"
+    ]
+    
+  },
+  {
+    "id": 2,
+    "role": "12 th standard(Government Senior Secondary School)",
+    "organisation":"RBSE",
+    "startDate": "2020-",
+    "endDate": "2021",
+    "location": "Dadabari Kota,Rajasthan",
+    "experiences": [
+      "I have got 97.41 percentage in  12th standard",
+      "I was topper in my school"
+    ]
+  
+  },
+  {
+    "id": 3,
+    "role": "B-tech in Compute Science (from Malviya National Institute of Technology jaipur)",
+    "organisation": "Malviya National Institute of Technology jaipur",
+    "startDate": "November 2022-",
+    "endDate": "June, 2026",
+    "location": "Jaipur Rajasthan",
+    "experiences": [
+      "Cgpa:7.25(till 7th sem)",
+      "I am member of english activity club"
+    ]
+  }
+]

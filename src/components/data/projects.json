@@ -1,0 +1,35 @@
+[
+  {
+    "key": 1,
+    "title": "Code synchronization Application",
+    "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
+    "description": "Developed a full-stack app with user auth, property listing CRUD, and map integration for location display.",
+    "demo": "https://akash-codecollab-ret3.vercel.app/",
+    "source": "https://github.com/akash123546rh/Code_Synchronization_Application"
+  },
+  {
+    "key": 2,
+    "title": "Mini Airbnb(Wanderlust)",
+     "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
+    
+    "description": "Developed a full-stack app with user auth, property listing CRUD, and map integration for location display.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/akash123546rh/Web_development-Mini-Airbnb-"
+  },
+  {
+    "key": 3,
+    "title": "Food Delivery App",
+     "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
+    "description": "Developed a full-stack app with user authentication, property listing CRUD, and payemnt and searching etc",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/akash123546rh/Food-delivery_application"
+  },
+  {
+    "key": 4,
+    "title": "Malware Detection",
+    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
+    "description": "Built a malware detection system using Logistic Regression, Random Forest, and Neural Networks",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/akash123546rh/Malware_detection-and-Classification"
+  }
+]
